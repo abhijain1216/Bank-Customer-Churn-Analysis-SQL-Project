@@ -39,3 +39,19 @@ A bank customer churn analysis was conducted using a dataset sourced from Kaggle
 17. Female customers with account balance between 100000 and 150000 and who are from Germany are most likely to exit bank.
 
 
+### *Recommendations*
+1. Target customers with Fair or Poor credit scores. These customers are more likely to churn, so it is important to focus on keeping them satisfied. This could involve offering them special incentives, such as discounts on interest rates or fees.
+
+2. Offer incentives to inactive customers. Inactive customers are more likely to churn, so it is important to try to get them engaged again. This could involve sending them personalized emails or phone calls, or offering them special promotions.
+
+3. Provide additional benefits to customers with credit cards. Customers with credit cards are more likely to churn, so it is important to provide them with additional benefits, such as rewards programs or extended warranties.
+
+4. Focus on marketing to customers in Germany and France. These countries have the highest churn rates, so it is important to focus on marketing to customers in these areas. This could involve creating marketing materials that are specific to these countries, or running targeted advertising campaigns.
+
+5. Offer more products and services to customers who only use one product. Customers who only use one product are more likely to churn, so it is important to offer them more options. This could involve offering them additional products, such as loans or investments, or providing them with access to more services, such as online banking or mobile banking.
+
+6. Reach out to customers who have been with the bank for 1 year. Customers who have been with the bank for a certain number of years are more likely to churn, so it is important to reach out to them and see if there is anything the bank can do to keep them as customers. This could involve sending them a personalized email or phone call, or offering them a special promotion.
+
+7. Target customers in the age group of 41-50 and with a balance of 100,000-150,000. These customers are more likely to churn, so it is important to target them specifically. This could involve offering them special products or services, or reaching out to them personally.
+
+8. Churn rate is higher for female customers in comparison to male customers. so, Understand the needs of female customers, Women often have busy lives and need banks that offer flexible banking options, such as online banking, mobile banking, and ATMs. Women are often on a budget, so it is important to offer competitive rates and fees on products and services.
